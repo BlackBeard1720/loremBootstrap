@@ -1,0 +1,31 @@
+header {
+  padding-top: 120px;
+}
+
+.padding {
+  padding-top: 120px;
+}
+.navbar-brand img{
+    width: 130px;
+}
+
+.feature-item img{
+    width: 50px;
+    height: auto;
+}
+
+.subscribe{
+  background-image: url("./img/subscribe.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.copyright{
+  background-color: #000;
+}
+
+.blur-filter{
+  background: #cccccc70;
+  backdrop-filter: blur(8px);
+}
+
